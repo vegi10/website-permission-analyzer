@@ -25,5 +25,10 @@ A Chrome Extension that visually displays all permissions used by the current we
 Chrome extension popup showing live website permissions:
 ![Website Permission Analyzer Preview](https://github.com/user-attachments/assets/985ea0f7-84f0-40b6-9e81-b757a3f561b0)
 
+## Why this project?
+Many users unknowingly grant sensitive permissions to websites.
+This extension helps users quickly understand what access a website has,
+improving awareness and security.
+
 ## Author
 Bharath Kumar
